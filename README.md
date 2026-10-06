@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Virtual-Desktop-Infrastructure-Vdi-DaaS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Virtual-Desktop-Infrastructure-Vdi-DaaS?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Virtual-Desktop-Infrastructure-Vdi-DaaS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Virtual-Desktop-Infrastructure-Vdi-DaaS?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Virtual-Desktop-Infrastructure-Vdi-DaaS/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Virtual-Desktop-Infrastructure-Vdi-DaaS?style=flat-square" alt="Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Virtual-Desktop-Infrastructure-Vdi-DaaS/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -59,9 +59,9 @@ Below is a curated comparison of leading commercial DaaS and VDI offerings, sort
 
 ## ⚡ Open-Source GitHub Projects
 
-Below is a comprehensive list of active open-source Virtual Desktop Infrastructure (VDI), self-hosted remote desktop servers, WebRTC streaming platforms, containerized desktop managers, and HTML5 gateways — sorted by **GitHub Star Count (descending)**:
+Below is a comprehensive list of active open-source Virtual Desktop Infrastructure (VDI), self-hosted remote desktop servers, WebRTC streaming platforms, containerized desktop managers, and HTML5 gateways — sorted by **GitHub Stars_Count (descending)**:
 
-| 📦 Repository & Name | 🌟 GitHub Stars | 📜 License | 🎯 Category & Highlights |
+| 📦 Repository & Name | 🌟 GitHub_Stars | 📜 License | 🎯 Category & Highlights |
 | :--- | :--- | :--- | :--- |
 | **[RustDesk](https://github.com/rustdesk/rustdesk)** | [![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social&color=white)](https://github.com/rustdesk/rustdesk/stargazers) | AGPL-3.0 | **Remote Desktop Platform:** Full-featured TeamViewer & Anydesk alternative written in Rust with self-hosted server capability. |
 | **[Sunshine](https://github.com/LizardByte/Sunshine)** | [![Stars](https://img.shields.io/github/stars/LizardByte/Sunshine?style=social&color=white)](https://github.com/LizardByte/Sunshine/stargazers) | GPL-3.0 | **Game & Desktop Streaming Host:** Low-latency self-hosted streaming host supporting Moonlight clients with GPU acceleration. |
