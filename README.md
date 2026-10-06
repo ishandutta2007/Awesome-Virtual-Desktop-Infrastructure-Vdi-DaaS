@@ -29,6 +29,7 @@
 - [⚡ Open-Source GitHub Projects](#-open-source-github-projects)
 - [🧩 VDI Architecture & Deployment Guide](#-vdi-architecture--deployment-guide)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
 - [⚠️ Disclaimer & Security Guidelines](#%EF%B8%8F-disclaimer--security-guidelines)
 - [📈 Star History](#-star-history)
 
@@ -133,6 +134,22 @@ Contributions from the VDI, DaaS, and Cloud Computing community are welcome! Ple
 
 ---
 
+## 💖 Support & Community
+
+Thank you for exploring and contributing to **Awesome Virtual Desktop Infrastructure (VDI) & DaaS**! 🚀
+
+If you find this repository helpful for your cloud workstation setups, self-hosted environments, or enterprise evaluations:
+- ⭐️ **Star this repository** to show your appreciation and help others discover it.
+- 🍴 **Fork it** to customize or contribute new VDI & DaaS tools.
+- 📢 **Share it** with fellow sysadmins, DevOps engineers, and remote work enthusiasts!
+
+### ☕ Sponsor & Support
+If you would like to support the ongoing maintenance and curation of open-source awesome lists, consider sponsoring or buying a coffee:
+
+<a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-ishandutta2007-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor"/></a>
+
+---
+
 ## ⚠️ Disclaimer & Security Guidelines
 
 - **Community Curated:** This list is maintained for educational and reference purposes. It does not constitute an official endorsement.
@@ -143,4 +160,4 @@ Contributions from the VDI, DaaS, and Cloud Computing community are welcome! Ple
 
 ## 📈 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Virtual-Desktop-Infrastructure-Vdi-DaaS&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Virtual-Desktop-Infrastructure-Vdi-DaaS&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Virtual-Desktop-Infrastructure-Vdi-DaaS&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Virtual-Desktop-Infrastructure-Vdi-DaaS&type=date&legend=top-left)
